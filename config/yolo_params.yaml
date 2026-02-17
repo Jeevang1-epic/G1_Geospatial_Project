@@ -1,0 +1,5 @@
+train: C:/Users/Jeevan kumar/Desktop/Geospatial_Project/oceanData/images
+val: C:/Users/Jeevan kumar/Desktop/Geospatial_Project/road_and_shore/images
+test: ./../testImages
+nc: 2
+names: ['building', 'vehicle']
