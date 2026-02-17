@@ -88,7 +88,7 @@ Implementation of DINOv2 (Meta) backbone for enhanced feature extraction in comp
 Refinement of the prediction string generator to improve Intersection over Union (IoU) scores on the competition leaderboard.
 
 ## How to Reproduce
-* **Clone the repository.*
+* *Clone the repository.*
 
 * **Install dependencies:**
 
