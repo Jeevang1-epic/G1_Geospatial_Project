@@ -81,11 +81,11 @@ Validation batches show high confidence scores (ranging from **0.7 to 0.9**).
 
 ## While Phase 1 successfully verified the pipeline and hardware performance, the following improvements are for Phase 2:
 
-Integration of the full 10GB geospatial dataset.
+* *Integration of the full 10GB geospatial dataset.*
 
-Implementation of DINOv2 (Meta) backbone for enhanced feature extraction in complex terrain.
+* *Implementation of DINOv2 (Meta) backbone for enhanced feature extraction in complex terrain.*
 
-Refinement of the prediction string generator to improve Intersection over Union (IoU) scores on the competition leaderboard.
+* *Refinement of the prediction string generator to improve Intersection over Union (IoU) scores on the competition leaderboard.*
 
 ## How to Reproduce
 * *Clone the repository.*
